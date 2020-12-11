@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GuardianNewsSearch</string>
+    <string name="search">Chercher</string>
+    <string name="Search_hint">Rechercher des articles Guardian</string>
+    <string name="favorites">Favoris</string>
+    <string name="recommended">conseillé</string>
+    <string name="deleted">Supprimé récemment</string>
+    <string name="navMessage">Déjà sur cette page!</string>
+    <string name="goToArticle">Aller à l\'article sélectionné?</string>
+    <string name="title">Titre: </string>
+    <string name="section">Section: </string>
+    <string name="abort">sortie</string>
+    <string name="save">Enregistrer l\'article dans les favoris</string>
+    <string name="delete">Supprimer cet article</string>
+    <string name="database">ID de la base de données: </string>
+    <string name="yes">Oui</string>
+    <string name="no">non</string>
+    <string name="restore">Restaurer l\article supprimé dans les favoris?</string>
+    <string name="permaDel">Supprimer définitivement l\'article</string>
+    <string name="help">Aidez-moi</string>
+    <string name="helpPage">Page d\'aide: </string>
+    <string name="searchHelp">
+Entrez le terme de recherche dans la zone de texte et appuyez sur Rechercher pour rechercher des articles Guardian.
+        Appuyez sur un titre dans la liste pour afficher ses informations, puis appuyez sur le lien pour accéder à l\'article, ou sur enregistrer l\'article dans les favoris pour afficher l\'article plus tard.
+    </string>
+    <string name="ok">Je l\'ai!</string>
+    <string name="recHelp">Nous avons ici une liste d\'articles recommandés qui faisaient partie de vos recherches précédentes.
+        Appuyez simplement sur un titre pour afficher ses informations, puis appuyez sur le lien pour accéder à l\'article, ou appuyez sur Enregistrer l\'article dans les favoris, tout comme la page de recherche!
+    </string>
+    <string name="faveHelp">Ici, nous avons tous vos articles enregistrés.
+        Appuyez sur un titre pour afficher ses informations, puis appuyez sur le lien pour accéder à l\'article.
+        Si vous en avez terminé avec l\'article et que vous ne souhaitez plus qu\'il prenne de la place, appuyez simplement sur Supprimer pour l\'envoyer à la corbeille.
+    </string>
+    <string name="trash">Poubelle</string>
+    <string name="trashHelp">
+Vous avez accidentellement supprimé quelque chose de vos favoris?
+        Appuyez simplement sur le titre de l\'article supprimé accidentellement et appuyez sur Oui pour restaurer l\'article dans vos favoris.
+        Si vous en avez vraiment terminé avec l\'article et que vous souhaitez qu'il soit supprimé définitivement, appuyez sur supprimer définitivement l'article
+    </string>
+    <string name="restored">Article remis en favoris!</string>
+
+</resources>

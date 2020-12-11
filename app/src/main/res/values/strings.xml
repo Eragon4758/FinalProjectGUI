@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GuardianNewsSearch</string>
+    <string name="search">Search</string>
+    <string name="Search_hint">Search Guardian articles</string>
+    <string name="favorites">Favorites</string>
+    <string name="recommended">Recommended</string>
+    <string name="deleted">Recently Deleted</string>
+    <string name="navMessage">Already on that page!</string>
+    <string name="goToArticle">Go to selected article?</string>
+    <string name="title">Title: </string>
+    <string name="section">Section: </string>
+    <string name="abort">exit</string>
+    <string name="save">Save article to favorites</string>
+    <string name="delete">Delete this article</string>
+    <string name="database">Database ID: </string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="restore">Restore deleted article to favorites?</string>
+    <string name="permaDel">Permanently delete article</string>
+    <string name="help">Help</string>
+    <string name="helpPage">Help Page:</string>
+    <string name="searchHelp">Enter search term into text box, and press search to search for Guardian articles.
+        Tap on a title in the list to view its info, then tap on the link to go to the article, or on save article to favorites to view article later.
+    </string>
+    <string name="ok">Got it!</string>
+    <string name="recHelp">Here we have a list of recommended articles that were part of your previous searches.
+        Simply tap on a title to view its info, then tap on the link to go to the article, or tap on save article to favorites, just like the Search Page!
+    </string>
+    <string name="faveHelp">Here we have all of your saved articles.
+        Tap on a title to view its info, then tap on the link to go to the article.
+        If you are done with the article, and no longer wish it to take up space, simply tap delete to send it to the trash.
+    </string>
+    <string name="trash">Trash bin</string>
+    <string name="trashHelp">Deleted something from your favorites accidentally?
+        Simply tap on the title of the accidentally deleted article and tap yes to restore the article to your favorites.
+        If you are truly done with the article, and wish for it to be permanently deleted, tap permanently delete article
+    </string>
+    <string name="restored">Article restored to favorites!</string>
+
+</resources>
